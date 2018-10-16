@@ -1,0 +1,45 @@
+﻿  testMdApi.cpp
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(844): warning C4101: “BidPrice5”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(792): warning C4101: “Turnover”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(784): warning C4101: “OpenPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(846): warning C4101: “BidVolume5”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(842): warning C4101: “AskVolume4”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(832): warning C4101: “AskPrice3”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(816): warning C4101: “AskPrice1”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(806): warning C4101: “CurrDelta”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(840): warning C4101: “AskPrice4”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(818): warning C4101: “AskVolume1”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(814): warning C4101: “BidVolume1”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(800): warning C4101: “UpperLimitPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(798): warning C4101: “SettlementPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(838): warning C4101: “BidVolume4”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(836): warning C4101: “BidPrice4”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(834): warning C4101: “AskVolume3”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(810): warning C4101: “UpdateMillisec”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(794): warning C4101: “OpenInterest”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(788): warning C4101: “LowestPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(776): warning C4101: “LastPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(828): warning C4101: “BidPrice3”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(826): warning C4101: “AskVolume2”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(824): warning C4101: “AskPrice2”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(804): warning C4101: “PreDelta”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(850): warning C4101: “AskVolume5”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(796): warning C4101: “ClosePrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(808): warning C4101: “UpdateTime”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(790): warning C4101: “Volume”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(822): warning C4101: “BidVolume2”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(820): warning C4101: “BidPrice2”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(772): warning C4101: “ExchangeID”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(830): warning C4101: “BidVolume3”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(774): warning C4101: “ExchangeInstID”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(780): warning C4101: “PreClosePrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(852): warning C4101: “AveragePrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(848): warning C4101: “AskPrice5”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(782): warning C4101: “PreOpenInterest”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(786): warning C4101: “HighestPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(770): warning C4101: “InstrumentID”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(812): warning C4101: “BidPrice1”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(802): warning C4101: “LowerLimitPrice”: 未引用的局部变量
+h:\c++\demo\thosttraderapi\thostftdcuserapistruct.h(778): warning C4101: “PreSettlementPrice”: 未引用的局部变量
+  testMdUserApi.vcxproj -> H:\C++\Demo\bin\testMdUserApi.exe
+  已复制         1 个文件。
